@@ -1,1 +1,3 @@
 Add text
+Add text line in new branch.
+Add second text line in new branch.
