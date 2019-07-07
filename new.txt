@@ -2,3 +2,5 @@ Add text
 Add text line in new branch.
 Alter text in master branch.
 Alter text in master branch.
+Alter text in feature.
+
